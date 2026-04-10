@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Flutter+%7C+React+Native+Developer;ASP.NET+Backend+Engineer;Clean+Code+Advocate;Performance+Focused;Turning+Ideas+into+Real+Products+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Flutter+%7C+React+Native+Developer;Clean+Code+Advocate;Performance+Focused;Turning+Ideas+into+Real+Products+🚀" />
 </p>
 
 <p align="center">
