@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Flutter+%7C+React+Native+Developer;ASP.NET+Backend+Engineer;Clean+Code+Advocate;Performance+Focused;Turning+Ideas+into+Real+Products+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Flutter+Developer;Clean+Code+Advocate;Performance+Focused;Turning+Ideas+into+Real+Products+🚀" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 I’m a **Full Stack / Mobile Developer** focused on building **production-ready and scalable applications**.
 
 - 📱 Specialized in **Flutter** & **React Native**
-- ⚙️ Backend experience with **ASP.NET (C#)** & REST APIs  
+- ⚙️ Backend Integration experience with REST APIs  
 - 🏆 Awarded **Employee of the Year** early in my career  
 - 🚀 Strong ownership in delivering high-impact projects  
 - 🎯 Focused on **performance, clean architecture, and UX**
@@ -53,26 +53,15 @@ I’m a **Full Stack / Mobile Developer** focused on building **production-ready
 
 ---
 
-### ⚙️ Backend Systems
-- 🔹 **ASP.NET API Services**  
-  Authentication, token refresh, and transaction systems  
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,dotnet,git,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,kotlin,swift,firebase,sqlite,git,github,gitlab,vscode,visualstudio,androidstudio,figma,postman" />
 </p>
 
 ---
 
 ## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arevalojennel&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arevalojennel&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=arevalojennel&theme=tokyonight&hide_border=true"/>
