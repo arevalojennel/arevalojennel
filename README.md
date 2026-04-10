@@ -63,7 +63,7 @@ I’m a **Full Stack / Mobile Developer** focused on building **production-ready
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,kotlin,swift,firebase,sqlite,git,github,gitlab,vscode,visualstudio,androidstudio,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,kotlin,swift,firebase,sqlite,git,github,gitlab,vscode,visualstudio,androidstudio,figma,postman" />
 </p>
 
 ---
