@@ -26,7 +26,8 @@
 I’m a **Full Stack / Mobile Developer** focused on building **production-ready and scalable applications**.
 
 - 📱 Specialized in **Flutter** & **React Native**
-- ⚙️ Backend Integration experience with REST APIs  
+- ⚙️ Backend Integration experience with REST APIs
+- 🛠️ Android SDK Integration
 - 🏆 Awarded **Employee of the Year** early in my career  
 - 🚀 Strong ownership in delivering high-impact projects  
 - 🎯 Focused on **performance, clean architecture, and UX**
@@ -45,11 +46,17 @@ I’m a **Full Stack / Mobile Developer** focused on building **production-ready
 ## 🚀 Featured Projects
 
 ### 📱 Mobile Applications
-- 🔹 **Operator App (Flutter)**  
-  Real-time QR scanning, fare processing, and API integration  
+- 🔹 **Kitchen Goodies**  
+  Elevate Your Cooking Game
 
-- 🔹 **Passenger App**  
-  Booking and ticketing system with smooth UX  
+- 🔹 **Profitara**  
+  Inventory & Production Management
+  
+- 🔹 **Fundy**  
+  Savings and Expense Tracker App  
+
+- 🔹 **Jibril**  
+  Japaneses Word Game
 
 ---
 
